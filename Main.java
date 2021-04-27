@@ -1,4 +1,6 @@
 import java.util.Scanner;
+// This project is to test Git/GitHub functionality. Don't take it seriously in regards to programming.
+
 
 public class Main {
 
